@@ -1,0 +1,104 @@
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\appsettings.json
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Api.exe
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Api.deps.json
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Api.runtimeconfig.json
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Api.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\ref\Api.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Api.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Application.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Domain.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Application.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Domain.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\ref\Api.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\MSSQL.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\MSSQL.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\RestSharp.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\appsettings.json
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Api.exe
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Api.deps.json
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Api.runtimeconfig.json
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Api.runtimeconfig.dev.json
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Api.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\ref\Api.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Api.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\MediatR.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\RestSharp.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Application.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Domain.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Infrastructure.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\MSSQL.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Application.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\MSSQL.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Domain.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\bin\Debug\net5.0\Infrastructure.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.csprojAssemblyReference.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.csproj.CopyComplete
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\ref\Api.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Api\obj\Debug\net5.0\Api.genruntimeconfig.cache

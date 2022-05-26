@@ -1,0 +1,38 @@
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\MSSQL.deps.json
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\MSSQL.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\ref\MSSQL.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\MSSQL.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\Application.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\Domain.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\Application.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\Domain.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.csproj.AssemblyReference.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.AssemblyInfoInputs.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.AssemblyInfo.cs
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.csproj.CoreCompileInputs.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.csproj.CopyComplete
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\ref\MSSQL.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\MSSQL.deps.json
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\MSSQL.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\ref\MSSQL.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\MSSQL.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\Application.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\Domain.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\Infrastructure.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\Application.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\Domain.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\bin\Debug\net5.0\Infrastructure.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.csprojAssemblyReference.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.AssemblyInfoInputs.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.AssemblyInfo.cs
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.csproj.CoreCompileInputs.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.csproj.CopyComplete
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\ref\MSSQL.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Data\obj\Debug\net5.0\MSSQL.pdb

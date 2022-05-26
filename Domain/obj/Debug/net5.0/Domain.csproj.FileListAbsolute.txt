@@ -1,0 +1,24 @@
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\reach_hnawaz\source\repos\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\bin\Debug\net5.0\Domain.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Hamza\Malta\V2\CurrencyExchange (2)\CurrencyExchange\Domain\obj\Debug\net5.0\Domain.pdb
